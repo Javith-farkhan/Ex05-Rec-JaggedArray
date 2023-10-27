@@ -21,8 +21,8 @@ End the Program.
 
 ## Program:
 ```
-Developed By: Paul Andrew D
-Register No: 212221230075
+Developed By: Javith Farkham
+Register No: 212221240017
 ```
 ```C#
 using System;
@@ -64,7 +64,8 @@ namespace jaggedarray
 
 
 ## Output:
-![](./ot1.PNG)
+
+![EX5](https://github.com/Javith-farkhan/Ex05-Rec-JaggedArray/assets/94296805/b1f39fda-5ed8-4762-806a-0d154c580055)
 
 
 ## Result:
